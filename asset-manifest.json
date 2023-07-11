@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/nabilaafsana-profile/static/css/main.5cac8cf5.css",
-    "main.js": "/nabilaafsana-profile/static/js/main.8a62ceb5.js",
-    "static/media/NabilaAfsanaResume.pdf": "/nabilaafsana-profile/static/media/NabilaAfsanaResume.e3bfcfbb324444b58e2d.pdf",
-    "static/media/cont2.PNG": "/nabilaafsana-profile/static/media/cont2.757055440833dd8ab808.PNG",
-    "static/media/ac2.png": "/nabilaafsana-profile/static/media/ac2.96a7795697b1bd5098e3.png",
-    "static/media/aaw2.png": "/nabilaafsana-profile/static/media/aaw2.67f22e36215d77223b88.png",
-    "static/media/me0.png": "/nabilaafsana-profile/static/media/me0.b5340ef540be33628c92.png",
-    "static/media/al2.PNG": "/nabilaafsana-profile/static/media/al2.a12507d98cf9d57a0a19.PNG",
-    "static/media/me8.png": "/nabilaafsana-profile/static/media/me8.4511884dd9a23f1cb68e.png",
-    "static/media/aj2.png": "/nabilaafsana-profile/static/media/aj2.4ee801a644cdf5b04a20.png",
-    "static/media/kn2.png": "/nabilaafsana-profile/static/media/kn2.6ba6114be8469bcb850e.png",
-    "index.html": "/nabilaafsana-profile/index.html",
-    "main.5cac8cf5.css.map": "/nabilaafsana-profile/static/css/main.5cac8cf5.css.map",
-    "main.8a62ceb5.js.map": "/nabilaafsana-profile/static/js/main.8a62ceb5.js.map"
+    "main.css": "/nabilaafsanacl/static/css/main.01706d48.css",
+    "main.js": "/nabilaafsanacl/static/js/main.4a7d1848.js",
+    "static/media/NabilaAfsanaResume.pdf": "/nabilaafsanacl/static/media/NabilaAfsanaResume.0644027fd5314c8a71d0.pdf",
+    "static/media/cont2.PNG": "/nabilaafsanacl/static/media/cont2.757055440833dd8ab808.PNG",
+    "static/media/ac2.png": "/nabilaafsanacl/static/media/ac2.96a7795697b1bd5098e3.png",
+    "static/media/aaw2.png": "/nabilaafsanacl/static/media/aaw2.67f22e36215d77223b88.png",
+    "static/media/me0.png": "/nabilaafsanacl/static/media/me0.b5340ef540be33628c92.png",
+    "static/media/al2.PNG": "/nabilaafsanacl/static/media/al2.a12507d98cf9d57a0a19.PNG",
+    "static/media/me8.png": "/nabilaafsanacl/static/media/me8.4511884dd9a23f1cb68e.png",
+    "static/media/aj2.png": "/nabilaafsanacl/static/media/aj2.4ee801a644cdf5b04a20.png",
+    "static/media/kn2.png": "/nabilaafsanacl/static/media/kn2.6ba6114be8469bcb850e.png",
+    "index.html": "/nabilaafsanacl/index.html",
+    "main.01706d48.css.map": "/nabilaafsanacl/static/css/main.01706d48.css.map",
+    "main.4a7d1848.js.map": "/nabilaafsanacl/static/js/main.4a7d1848.js.map"
   },
   "entrypoints": [
-    "static/css/main.5cac8cf5.css",
-    "static/js/main.8a62ceb5.js"
+    "static/css/main.01706d48.css",
+    "static/js/main.4a7d1848.js"
   ]
 }
