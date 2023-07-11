@@ -49,8 +49,8 @@ const data = [
   {
     id: 5,
     image: IMG5,
-    title: 'ABC Learning Center',
-    para: 'A project-based website dedicated for IT Training institute that conducts courses incuding Front-end and Back-end Web development.',
+    title: 'ABC Learning Center Project',
+    para: 'A website dedicated that conducts courses incuding Front-end and Back-end Web development.',
     soft: '#HTML #CSSS #JavaScript',
     github: 'https://github.com',
     demo: 'https://dribbble.com/shots/16541289-Orion-UI-kit-Charts-templates-infographics-in-Figma'
@@ -59,7 +59,7 @@ const data = [
     id: 6,
     image: IMG6,
     title: 'Wordpress Content Management',
-    para: 'Website name: https://www.coderclick.com/ ',
+    para: 'Website name: www.coderclick.com',
     soft: '#keyword research  #content management #SEO',
     github: 'https://github.com',
     demo: 'https://dribbble.com/shots/15887665-Orion-UI-kit-Charts-templates-infographics-in-Figma'

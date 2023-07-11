@@ -24,29 +24,28 @@ const About = () => {
         <div className="about__content">
           <div className="about__cards">
             <article className='about__card'>
-              <a href="#experience" onClick={() => setActiveNav('#experience')} className={activeNav === '#experience' ? 'active' : ''}><BiBook />&nbsp;Skills</a>
+              <a href="#experience" onClick={() => setActiveNav('#experience')} className={activeNav === '#experience' ? 'active' : ''}>Skills</a>
 
             </article>
 
             <article className='about__card'>
-              <a href="#experience" onClick={() => setActiveNav('#experience')} className={activeNav === '#experience' ? 'active' : ''}><FaAward />&nbsp;Experience</a>
+              <a href="#services" onClick={() => setActiveNav('#services')} className={activeNav === '#services' ? 'active' : ''}>Experience</a>
 
             </article>
 
             <article className='about__card'>
-              <a href="#experience" onClick={() => setActiveNav('#experience')} className={activeNav === '#experience' ? 'active' : ''}><VscFolderLibrary />&nbsp;Projects</a>
+              <a href="#portfolio" onClick={() => setActiveNav('#portfolio')} className={activeNav === '#portfolio' ? 'active' : ''}>Projects</a>
 
             </article>
           </div>
-          <p>I am a <strong>proactive and self-motivated</strong> individual with a positive attitude towards learning and personal growth. With a background in <strong>Electrical and Electronic Engineering</strong>, I started my career as a Research and Development Executive in an electro-mechanical engineering firm. In addition to my full-time work, I have <strong>remote</strong>  work experience as an <strong>SEO Content Editor and Mentor</strong>. I have successfully managed WordPress content, implemented SEO strategies, handled social media marketing, and overseen a team of writers.
+          <p>I believe myself as proactive, and self-motivated, and always carry a positive attitude to learn new things & try to polish the skill sets required to thrive in challenging situations.</p>
+          <p>
+          Currently I am pursuing Applied Diploma Degree in Software Engineering at Lithan Academy, Singapore. With over a year of experience in Full Stack Development, I have worked with a variety of technologies, I am experienced in popular frameworks like Spring Boot, REST API, MySQL as well as Java. I am also well-versed in HTML, CSS, JavaScript, and Frameworks like Bootstrap, React, and AngularJS. I am also specialized in building user interfaces using Figma, and Axure. 
           </p>
           <p>
-            In pursuit of my passion for <strong>software programming</strong>, I am currently pursuing the Lithan Higher Diploma degree in Computer Science and Engineering since September 2022. Throughout this academic journey, I have completed various front-end and back-end projects using HTML, CSS, Bootstrap, JAVA, Spring Boot, React JS, My SQL, Liferay, Axure, Figma, and so on. And, I have gained a valuable hands-on experience in software development.
+          At this stage of my career, I am eager to learn new technologies and looking for a company that will challenge my technical expertise while also providing me with attractive career opportunities. I am ready for any Software engineer, Database engineer, or UI engineer role.
           </p>
-          <p>
-            I am enthusiastic about exploring new technologies, expanding my skill set, and embracing challenging situations. With a strong foundation in  <strong>engineering</strong>and growing expertise in <strong>software programming</strong>, I am ready to take on new opportunities in the <strong>software development field</strong>.
-          </p>
-          <a href="#contact" className='btn btn-primary'>Video Introduction</a>
+          <a href="https://youtu.be/wgTbYVTJ_Os" className='btn btn-primary'>Video Introduction</a>
         </div>
       </div>
     </section>
