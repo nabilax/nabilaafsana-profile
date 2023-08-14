@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nabilaafsana-profile/static/css/main.1e66db7e.css",
-    "main.js": "/nabilaafsana-profile/static/js/main.690665d8.js",
+    "main.css": "/nabilaafsana-profile/static/css/main.6d00486a.css",
+    "main.js": "/nabilaafsana-profile/static/js/main.db5bb251.js",
     "static/media/NabilaAfsanaResume.pdf": "/nabilaafsana-profile/static/media/NabilaAfsanaResume.0644027fd5314c8a71d0.pdf",
     "static/media/cont2.PNG": "/nabilaafsana-profile/static/media/cont2.757055440833dd8ab808.PNG",
     "static/media/ac2.png": "/nabilaafsana-profile/static/media/ac2.96a7795697b1bd5098e3.png",
@@ -12,11 +12,11 @@
     "static/media/aj2.png": "/nabilaafsana-profile/static/media/aj2.4ee801a644cdf5b04a20.png",
     "static/media/kn2.png": "/nabilaafsana-profile/static/media/kn2.6ba6114be8469bcb850e.png",
     "index.html": "/nabilaafsana-profile/index.html",
-    "main.1e66db7e.css.map": "/nabilaafsana-profile/static/css/main.1e66db7e.css.map",
-    "main.690665d8.js.map": "/nabilaafsana-profile/static/js/main.690665d8.js.map"
+    "main.6d00486a.css.map": "/nabilaafsana-profile/static/css/main.6d00486a.css.map",
+    "main.db5bb251.js.map": "/nabilaafsana-profile/static/js/main.db5bb251.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e66db7e.css",
-    "static/js/main.690665d8.js"
+    "static/css/main.6d00486a.css",
+    "static/js/main.db5bb251.js"
   ]
 }
