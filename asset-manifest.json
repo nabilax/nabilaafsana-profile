@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nabilaafsana-profile/static/css/main.6d00486a.css",
-    "main.js": "/nabilaafsana-profile/static/js/main.aa6e6b12.js",
+    "main.js": "/nabilaafsana-profile/static/js/main.ffbf2fac.js",
     "static/media/NabilaAfsanaResume.pdf": "/nabilaafsana-profile/static/media/NabilaAfsanaResume.95da278fde39283f49b0.pdf",
     "static/media/cont2.PNG": "/nabilaafsana-profile/static/media/cont2.757055440833dd8ab808.PNG",
     "static/media/ac2.png": "/nabilaafsana-profile/static/media/ac2.96a7795697b1bd5098e3.png",
@@ -13,10 +13,10 @@
     "static/media/kn2.png": "/nabilaafsana-profile/static/media/kn2.6ba6114be8469bcb850e.png",
     "index.html": "/nabilaafsana-profile/index.html",
     "main.6d00486a.css.map": "/nabilaafsana-profile/static/css/main.6d00486a.css.map",
-    "main.aa6e6b12.js.map": "/nabilaafsana-profile/static/js/main.aa6e6b12.js.map"
+    "main.ffbf2fac.js.map": "/nabilaafsana-profile/static/js/main.ffbf2fac.js.map"
   },
   "entrypoints": [
     "static/css/main.6d00486a.css",
-    "static/js/main.aa6e6b12.js"
+    "static/js/main.ffbf2fac.js"
   ]
 }
